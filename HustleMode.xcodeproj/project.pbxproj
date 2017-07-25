@@ -56,7 +56,7 @@
 		EE1744481F27F850000C8D2F /* HustleMode */ = {
 			isa = PBXGroup;
 			children = (
-				EE17445D1F27F8F0000C8D2F /* Resources */,
+				EE17445B1F27F8E9000C8D2F /* hustle-on.wav */,
 				EE1744491F27F850000C8D2F /* AppDelegate.swift */,
 				EE17444B1F27F850000C8D2F /* ViewController.swift */,
 				EE17444D1F27F850000C8D2F /* Main.storyboard */,
@@ -65,14 +65,6 @@
 				EE1744551F27F850000C8D2F /* Info.plist */,
 			);
 			path = HustleMode;
-			sourceTree = "<group>";
-		};
-		EE17445D1F27F8F0000C8D2F /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				EE17445B1F27F8E9000C8D2F /* hustle-on.wav */,
-			);
-			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
